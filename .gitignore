@@ -9,3 +9,12 @@ mvnw*
 # Idea
 *.iml
 .idea
+
+# STS / Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
